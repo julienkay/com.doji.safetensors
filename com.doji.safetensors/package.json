@@ -1,0 +1,25 @@
+{
+  "name": "com.doji.safetensors",
+  "version": "1.0.0",
+  "displayName": "Safetensors",
+  "description": "A Unity package to read .safetensors files",
+  
+  "author": {
+    "name": "Doji Technologies",
+    "email": "support@doji-tech.com",
+    "url": "https://www.doji-tech.com/"
+  },
+  "documentationUrl": "https://docs.doji-tech.com/com.doji.safetensors/",
+  "samples": [
+    {
+      "displayName": "Shared Sample Assets (Required)",
+      "description": "Shared resources for samples. All other samples depend on this being imported.",
+      "path": "Samples~/00-SharedSampleAssets"
+    },
+    {
+      "displayName": "Basic Sample",
+      "description": "Basic example on how to use Safetensors.",
+      "path": "Samples~/01-BasicSample"
+    }
+  ]
+}
