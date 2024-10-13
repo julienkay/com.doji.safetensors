@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "displayName": "Safetensors",
   "description": "A Unity package to read .safetensors files",
-  
   "author": {
     "name": "Doji Technologies",
     "email": "support@doji-tech.com",
@@ -21,5 +20,8 @@
       "description": "Basic example on how to use Safetensors.",
       "path": "Samples~/01-BasicSample"
     }
-  ]
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  }
 }

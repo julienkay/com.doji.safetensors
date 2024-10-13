@@ -4,8 +4,3 @@
 
 # Safetensors
 A Unity package to read .safetensors files
-
-[OpenUPM] · [Documentation (coming soon)]
-
-[OpenUPM]: https://openupm.com/packages/com.doji.safetensors
-[Documentation (coming soon)]: https://github.com/julienkay/com.doji.safetensors
